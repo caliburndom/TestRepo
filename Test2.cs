@@ -6,4 +6,8 @@ using Some5;
 using Some6;
 using Some7;
 
+void main()
+{
+  
+}
 // blah

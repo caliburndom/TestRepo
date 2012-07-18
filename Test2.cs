@@ -7,5 +7,6 @@ using Some8;
 void main()
 {
  int a; 
+ int b;
 }
 // blah

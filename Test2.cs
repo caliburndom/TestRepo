@@ -6,5 +6,6 @@ using Some7;
 void main()
 {
  int a; 
+ int b;
 }
 // blah

@@ -7,6 +7,6 @@ using Branch;
 void main()
 {
  int c;
- int d;
+ int d2;
 }
 // blah
